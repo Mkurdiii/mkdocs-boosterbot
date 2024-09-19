@@ -16,12 +16,12 @@ This command sets the prefix for the bot's commands.
 
 | Command              | Explanation             |
 | -------------------- | ----------------------- |
-| `bb setup prefix !`  | Sets the prefix to `!`  |
-| `bb setup prefix bb` | Sets the prefix to `bb` |
+| `b setup prefix !`  | Sets the prefix to `!`  |
+| `b setup prefix bb` | Sets the prefix to `bb` |
 
 ## Bot Manager
 
-`bb setup manager <role>`
+b setup manager <role>`
 
 : This command sets the role that is able to edit bot settings, in addition to admins. To disable the bot manager role, use the `disable` argument.
 
